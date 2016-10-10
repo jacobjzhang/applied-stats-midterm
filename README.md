@@ -1,6 +1,8 @@
 # Midterm Project for Applied Statistics and Probability
 Data science midterm project for Applied Statistics and Probability
 
+http://applied-stats-midterm-jacobjzhang.c9users.io:8080/notebooks/Midterm%20Project.ipynb
+
 ## Idea Behind the Project
 My girlfriend and I have been traveling a significant amount recently, and we've been fortunate enough to explore some diverse parts of the world. Perhaps because we are generally introverted, we've noticed that that we much prefer less-populated, quieter cities. The initial reasons we conjured up for this were the obvious ones: less traffic, more peaceful activities, and more space to reflect. However, large cities offer serene areas to relax as well, and I also noticed that the general well-being of residents in smaller cities were greater even when they were in busy areas (shopping plazas, town halls, etc.). 
 
