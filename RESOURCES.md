@@ -28,3 +28,4 @@ http://stackoverflow.com/questions/14941366/pandas-sort-by-group-aggregate-and-c
 http://stackoverflow.com/questions/33997753/calculating-pairwise-correlation-among-all-columns
 http://stackoverflow.com/questions/28773683/combine-two-pandas-dataframes-with-the-same-index
 http://stackoverflow.com/questions/6620471/fitting-empirical-distribution-to-theoretical-ones-with-scipy-python
+http://glowingpython.blogspot.de/2012/07/distribution-fitting-with-scipy.html
