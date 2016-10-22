@@ -29,3 +29,4 @@ http://stackoverflow.com/questions/33997753/calculating-pairwise-correlation-amo
 http://stackoverflow.com/questions/28773683/combine-two-pandas-dataframes-with-the-same-index
 http://stackoverflow.com/questions/6620471/fitting-empirical-distribution-to-theoretical-ones-with-scipy-python
 http://glowingpython.blogspot.de/2012/07/distribution-fitting-with-scipy.html
+http://stackoverflow.com/questions/30292856/pandas-dataframe-binned-data-plotting
